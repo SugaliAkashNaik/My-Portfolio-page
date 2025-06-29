@@ -2,8 +2,7 @@
 Built responsive portfolio showcasing skills &amp; projects using Flexbox/Grid. Mastered GitHub, deployed via GitHub Pages. Overcame CSS positioning, mobile-first &amp; cross-browser challenges. Future: JS interactivity, dark mode, optimization.
 
 GitHub Repository: https://github.com/SugaliAkashNaik/Portfolio.github.io
-Live Website: https://SugaliAkashNaik.github.io/Portfolio.github.io/
-
+Live Website: https://sugaliakashnaik.github.io/Portfolio.github.io/
 Project Description:
 This is a personal portfolio website showcasing my projects and skills. It includes an about section, project gallery, and contact form.
 
